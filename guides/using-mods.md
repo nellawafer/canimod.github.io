@@ -99,7 +99,7 @@ Mac support is experimental. If you run into any problems or need help, come
 
    | Platform | Path  |
    |:-------- |:----- |
-   | GOG      | _unknown_ (let us know!) |
+   | GOG      | `/Applications/Stardew Valley.app/Contents/MacOS` |
    | Steam    | `~/Library/Application Support/Steam/steamapps/common/Stardew Valley/Contents/MacOS` |
 
 3. Rename `StardewValley` in your game directory to `StardewValley.unmodded`.
